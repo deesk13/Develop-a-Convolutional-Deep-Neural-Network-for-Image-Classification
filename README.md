@@ -106,20 +106,19 @@ train_model(model, train_loader)
 ### OUTPUT
 
 ## Training Loss per Epoch
-<img width="500" height="218" alt="image" src="https://github.com/user-attachments/assets/c5145ac2-4069-4c4e-94cf-9d35738c3bab" />
+<img width="742" height="433" alt="image" src="https://github.com/user-attachments/assets/2323146b-2d58-45c5-9c9c-9d53bcac2893" />
 
 
 ## Confusion Matrix
-<img width="677" height="652" alt="image" src="https://github.com/user-attachments/assets/04f98e18-b45a-4509-83ac-0b22b7e9ac6d" />
+<img width="615" height="685" alt="image" src="https://github.com/user-attachments/assets/e211059f-1b2c-4d24-a6e1-62507f487a86" />
 
 
 ## Classification Report
-<img width="452" height="294" alt="image" src="https://github.com/user-attachments/assets/36c86ace-ce99-4102-9c90-d8fe2320c2e4" />
+<img width="788" height="694" alt="image" src="https://github.com/user-attachments/assets/a6601b5f-7f48-4b15-bf7a-f639b77a130d" />
 
 
 ## New Sample Data Prediction
-<img width="627" height="484" alt="image" src="https://github.com/user-attachments/assets/9fde5db3-fd55-48b6-9c1b-cf7ca231f0dc" />
-
+<img width="530" height="504" alt="image" src="https://github.com/user-attachments/assets/76028736-8080-42f2-a117-01cb60d0d048" />
 
 ## RESULT
 The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset.
